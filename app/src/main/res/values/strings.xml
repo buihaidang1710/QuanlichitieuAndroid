@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hoc10</string>
+    <string-array name="category">
+        <item>Mua sam</item>
+        <item>Tien an</item>
+        <item>Tien nha</item>
+        <item>Tien sinh hoat</item>
+        <item>Tien du lich</item>
+        <item>Tien di lai</item>
+        <item>Giai tri</item>
+        <item>Sua chua</item>
+        <item>Tien hoc</item>
+    </string-array>
+</resources>

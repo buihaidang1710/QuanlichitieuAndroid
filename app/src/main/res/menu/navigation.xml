@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mHome"
+        android:title="Thong tin"
+        android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/mHistory"
+        android:title="Danh sach"
+        android:icon="@drawable/lich"/>
+    <item android:id="@+id/mSearch"
+        android:title="Tim kiem va Thong ke"
+        android:icon="@drawable/ic_search"/>
+    <item android:id="@+id/mNotice"
+        android:title="THONG BAO"
+        android:icon="@drawable/chuong"/>
+    <item android:id="@+id/mAccount"
+        android:title="ACCOUNT"
+        android:icon="@drawable/account"/>
+</menu>
